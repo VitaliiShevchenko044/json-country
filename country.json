@@ -1,4 +1,5 @@
 {
+{
   "country": "Україна",
   "capital": "Київ",
   "population": 41000000,
@@ -57,4 +58,5 @@
   "capital": "Бразиліа",
   "population": 213000000,
   "currency": "BRL"
+}
 }

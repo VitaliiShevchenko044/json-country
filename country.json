@@ -1,0 +1,60 @@
+{
+  "country": "Україна",
+  "capital": "Київ",
+  "population": 41000000,
+  "currency": "UAH"
+}
+{
+  "country": "Польща",
+  "capital": "Варшава",
+  "population": 38000000,
+  "currency": "PLN"
+}
+{
+  "country": "Німеччина",
+  "capital": "Берлін",
+  "population": 83000000,
+  "currency": "EUR"
+}
+{
+  "country": "Франція",
+  "capital": "Париж",
+  "population": 67000000,
+  "currency": "EUR"
+}
+{
+  "country": "Італія",
+  "capital": "Рим",
+  "population": 59000000,
+  "currency": "EUR"
+}
+{
+  "country": "Іспанія",
+  "capital": "Мадрид",
+  "population": 47000000,
+  "currency": "EUR"
+}
+{
+  "country": "США",
+  "capital": "Вашингтон",
+  "population": 331000000,
+  "currency": "USD"
+}
+{
+  "country": "Канада",
+  "capital": "Оттава",
+  "population": 38000000,
+  "currency": "CAD"
+}
+{
+  "country": "Японія",
+  "capital": "Токіо",
+  "population": 126000000,
+  "currency": "JPY"
+}
+{
+  "country": "Бразилія",
+  "capital": "Бразиліа",
+  "population": 213000000,
+  "currency": "BRL"
+}
